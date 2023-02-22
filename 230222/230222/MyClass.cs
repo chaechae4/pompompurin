@@ -1,4 +1,1 @@
-﻿main(void)
-{
-    printf("hi");
-}
+gg
