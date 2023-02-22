@@ -1,0 +1,4 @@
+﻿main(void)
+{
+    printf("hi");
+}
